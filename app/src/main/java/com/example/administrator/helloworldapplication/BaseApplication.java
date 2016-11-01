@@ -24,6 +24,7 @@ public class BaseApplication extends Application {
      */
     public BaseApplication getApplicationContext(){
         instance = this;
+
         return instance;
     }
 }
