@@ -48,6 +48,11 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:background="@android:color/holo_red_light">
-
     </LinearLayout>
+    <Button
+        android:id="@+id/gotocall"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="@string/togocallview"
+        />
 </LinearLayout>
